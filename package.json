@@ -18,5 +18,11 @@
   "homepage": "https://github.com/alivls/node#readme",
   "dependencies": {
     "ansi": "^0.3.1"
+  },
+  "peerDependencies": {
+    
+  },
+  "optionalDependencies": {
+    
   }
 }
